@@ -10,6 +10,6 @@ public class Main {
         thr.add(AntiMag);
         thr.hit();
 
-
+//        System.out.println(5/2);
     }
 }
